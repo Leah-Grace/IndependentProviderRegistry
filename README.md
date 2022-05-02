@@ -6,6 +6,8 @@
 
 # Independent Provider Personal Care Aide Registry
 
+This application leverages the Mongo DB, Express and Node to provide endpoints that prototype a registry for Personal Care Aides to be selected by participants in the Independent Provider program. This application was prototyped as part of the Independent Provider Program developed by the Executive Office of Health and Human Services. The program provides a more cost-effective means of personal care for elders, and members of the disability community who otherwise would resort to institutionalized care.
+
 This registry will provide a database of trained Personal Care Aides (PCA's) that are available for hire by consumers participating in the Independent Provider (IP) Model.
 
 - June 21 - Initialized application and installed packages:
